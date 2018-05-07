@@ -12,3 +12,9 @@ To run the application:
 ```
 npm run local
 ```
+
+To test the application:
+
+```
+npm run test
+```
