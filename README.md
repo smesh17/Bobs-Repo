@@ -18,3 +18,9 @@ To test the application:
 ```
 npm run test
 ```
+
+Build application:
+
+```
+npm run build
+```
